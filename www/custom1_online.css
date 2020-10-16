@@ -1,0 +1,43 @@
+a#downloadData {
+    font-size: 12px;
+    position: relative;
+    bottom: 54px;
+    right: -100px;
+}
+
+button#Load {
+    font-size: 12px;
+}
+
+
+span.btn.btn-default.btn-file{
+    background: #f6f6f6;
+    color: #333;
+    border-radius: 0px 5px 5px 0px;
+    border-style: solid solid solid none;
+    border-color: rgb(45,55,65);
+}
+
+#files_progress {
+    visibility: hidden;
+    background-color: #3330
+}
+
+.progress-bar {
+    visibility: hidden
+}
+
+.content-wrapper, .right-side {
+    background: #505963;
+}
+
+.shiny-output-error{
+    visibility: hidden;
+}
+
+.shiny-output-error:before {
+    visibility: hidden; 
+}
+.navbar-dark{
+    background-color: #505963;
+}
